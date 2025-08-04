@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "689028c8a3796a3aac6118bb"
+  },
+  "usuario": "ana23",
+  "contraseña": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68902a15075b0a30735c40e1"
+  },
+  "usuario": "prueba",
+  "contraseña": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68902fb3fedcaa93b59ce5b7"
+  },
+  "usuario": "Nelly Rodriguez",
+  "contraseña": "1234",
+  "__v": 0
+}]
